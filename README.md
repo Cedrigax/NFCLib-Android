@@ -5,7 +5,7 @@ Checkout the NfcLib for iOS [NfcLib-iOS](https://github.com/Maliotis/NfcLib-iOS)
 
 ## Setup
 
-Gradle: [![](https://jitpack.io/v/Maliotis/NFCLib-Android.svg)](https://jitpack.io/#Maliotis/NFCLib-Android)
+Gradle: [![](https://jitpack.io/v/Maliotis/NFCLib-Android.svg)](https://jitpack.io/#Cedrigax/NFCLib-Android)
 
 ```gradle
 repositories {
